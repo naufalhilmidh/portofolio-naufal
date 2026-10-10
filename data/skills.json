@@ -1,0 +1,44 @@
+{
+  "Data Analytics & Visualization": [
+    "Dashboard Development",
+    "Data Visualization",
+    "Survey Analytics",
+    "Likert-Scale Scoring",
+    "Spatial Mapping",
+    "Leaflet.js",
+    "Chart.js"
+  ],
+  "Machine Learning & Statistics": [
+    "Classification",
+    "Random Forest",
+    "Linear Discriminant Analysis (LDA)",
+    "K-Means Clustering",
+    "Multidimensional Scaling (MDS)",
+    "CFA",
+    "SEM",
+    "NLP",
+    "Transformer Models",
+    "Imbalanced Data Handling",
+    "Model Evaluation"
+  ],
+  "Data Engineering & Databases": [
+    "ETL Pipeline",
+    "Data Warehouse",
+    "Star Schema",
+    "Data Mart",
+    "Data Cleaning",
+    "PostgreSQL"
+  ],
+  "Tools & Frameworks": [
+    "Python",
+    "Scikit-learn",
+    "R",
+    "FastAPI",
+    "Streamlit",
+    "Docker",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git"
+  ]
+}

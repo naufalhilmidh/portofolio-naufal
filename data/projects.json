@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "campus-service-satisfaction-dashboard",
+    "title": "Campus Service Satisfaction & Integrity Analytics Dashboard",
+    "categories": ["Data Analyst"],
+    "description": "Dashboard untuk menganalisis tingkat kepuasan layanan kampus dan indikator integritas dari data survei.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": false
+  },
+  {
+    "slug": "indonesian-hate-speech-analyzer",
+    "title": "Indonesian Hate Speech & Toxicity Analyzer",
+    "categories": ["Data Scientist"],
+    "description": "Aplikasi yang mendeteksi ujaran kebencian dan toksisitas pada teks berbahasa Indonesia.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": true
+  },
+  {
+    "slug": "machine-failure-prediction",
+    "title": "Industrial Machine Failure Prediction System",
+    "categories": ["Data Scientist"],
+    "description": "Sistem yang memprediksi kegagalan mesin industri dari data operasional mesin.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": false
+  },
+  {
+    "slug": "management-data-mart-etl",
+    "title": "Management Data Mart: ETL & Star Schema for Project Performance Analysis",
+    "categories": ["Data Engineer"],
+    "description": "Data mart untuk analisis kinerja project manajemen, dibangun dengan proses ETL dan star schema.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": true
+  },
+  {
+    "slug": "ethanol-fuel-perception-cfa-sem",
+    "title": "Student Perceptions of Ethanol-Blended Fuel: CFA & SEM Analysis",
+    "categories": ["Data Analyst", "Data Scientist"],
+    "description": "Analisis persepsi mahasiswa terhadap bahan bakar campuran etanol menggunakan CFA dan SEM.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": false
+  },
+  {
+    "slug": "east-java-hdi-dashboard",
+    "title": "East Java HDI Dashboard 2024: Interactive Spatial Clustering Visualization",
+    "categories": ["Data Analyst", "Data Scientist"],
+    "description": "Dashboard interaktif berbasis peta yang menampilkan pengelompokan wilayah Jawa Timur berdasarkan Indeks Pembangunan Manusia 2024.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": true
+  },
+  {
+    "slug": "informal-employment-lda",
+    "title": "Provincial Informal Employment Classification in Indonesia: LDA Analysis",
+    "categories": ["Data Scientist"],
+    "description": "Klasifikasi provinsi di Indonesia berdasarkan tingkat pekerja informal menggunakan Linear Discriminant Analysis.",
+    "tools": ["TODO"],
+    "results": [],
+    "github": "https://github.com/naufalhilmidh",
+    "featured": false
+  }
+]

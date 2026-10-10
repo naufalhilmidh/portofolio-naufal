@@ -1,0 +1,20 @@
+[
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "priority": 1,
+    "summary": "Membangun model prediktif dan analisis statistik untuk menjawab pertanyaan nyata dari data."
+  },
+  {
+    "id": "data-engineer",
+    "title": "Data Engineer",
+    "priority": 2,
+    "summary": "Merancang alur data yang rapi, dari pengambilan data sampai tersimpan dalam struktur yang siap dianalisis."
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "priority": 3,
+    "summary": "Mengubah data menjadi dashboard dan temuan yang mudah dipahami oleh pengambil keputusan."
+  }
+]
